@@ -36,3 +36,12 @@
 *.pfx
 *.pem
 *.key
+
+# 本地临时文件与过程截图，不入库
+UserSettings/
+.utmp/
+mono_crash.*
+*.log
+Evidence/
+VisualQA/
+Preview/
